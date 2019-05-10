@@ -1,0 +1,114 @@
+2SEMGV6T59HAGEC5  2 GiB     1   t2.small      Intel Xeon Family
+4SDY4XCRMTTHU55K  3.75 GiB  1   m3.medium     Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+6PSHDB8D545JMBBD  0.5 GiB   1   t2.nano       Intel Xeon Family
+7BF4E6DS5KSK424K  1 GiB     1   t2.micro      Intel Xeon Family
+CU49Z77S6UH36JXW  2 GiB     1   t2.small      Intel Xeon Family
+GAZSSNJQ6FMMHE3Z  0.5 GiB   1   t2.nano       Intel Xeon Family
+GDZZPNEEZXAN7X9J  3.75 GiB  1   m3.medium     Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+MWZ782FC8DW7J99A  2 GiB     1   t2.small      Intel Xeon Family
+QNJX6TKZ8B8YDFWQ  0.5 GiB   1   t2.nano       Intel Xeon Family
+T9GCN3NZ9U6N5BGN  1 GiB     1   t2.micro      Intel Xeon Family
+V9KJ6N2U7KUVD6B4  3.75 GiB  1   m3.medium     Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+WDV8EGFDZABESVSJ  1 GiB     1   t2.micro      Intel Xeon Family
+3EZEE3FTDBFJGMS8  8 GiB     2   m5.large      Intel Xeon Platinum 8175
+3GYK7F3ASPNJFM8S  8 GiB     2   m5d.large     Intel Xeon Platinum 8175
+5P7657GQ9EZ2Z4ZY  4 GiB     2   t2.medium     Intel Xeon Family
+5Y4HW2NEZ28KD55H  8 GiB     2   t3.large      Intel Skylake E5 2686 v5 (2.5 GHz)
+5ZJ896MTVHB5JV5Y  4 GiB     2   t2.medium     Intel Xeon Family
+6GR6HHW9M8KXFW8G  8 GiB     2   t3.large      Intel Skylake E5 2686 v5 (2.5 GHz)
+7W6DNQ55YG9FCPXZ  8 GiB     2   t2.large      Intel Xeon Family
+8KSV5UWZA8Q5NDMM  8 GiB     2   m5.large      Intel Xeon Platinum 8175
+8KTQAHWA58GUHDGC  7.5 GiB   2   m3.large      Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+9AR5K7KFVJXZ8APJ  8 GiB     2   m4.large      Intel Xeon E5-2676 v3 (Haswell)
+9F7RB34BNUJTPE58  8 GiB     2   m5d.large     Intel Xeon Platinum 8175
+9PBREHF5JRKB6RBE  1 GiB     2   t3.micro      Intel Skylake E5 2686 v5 (2.5 GHz)
+ABFDCPB959KUGRH8  8 GiB     2   m4.large      Intel Xeon E5-2676 v3 (Haswell)
+CVRPW534R69RUEMP  0.5 GiB   2   t3.nano       Intel Skylake E5 2686 v5 (2.5 GHz)
+FJGAN929UK7ZM2ZP  8 GiB     2   m5d.large     Intel Xeon Platinum 8175
+GHQYBQHT7SSW3G2C  8 GiB     2   t2.large      Intel Xeon Family
+H6ECMC3MHDHUV96Z  4 GiB     2   t3.medium     Intel Skylake E5 2686 v5 (2.5 GHz)
+J49TZ5ZB5Y6C86JU  0.5 GiB   2   t3.nano       Intel Skylake E5 2686 v5 (2.5 GHz)
+J5YY9S8MS4B8JHUW  8 GiB     2   t3.large      Intel Skylake E5 2686 v5 (2.5 GHz)
+J9DR6YV4CFQN8VCQ  4 GiB     2   t2.medium     Intel Xeon Family
+JMVMVA6RY5F4RT8A  7.5 GiB   2   m3.large      Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+JSXG89ERGHPGMPFM  8 GiB     2   m5.large      Intel Xeon Platinum 8175
+KNRZBSEE5HWZK9XP  0.5 GiB   2   t3.nano       Intel Skylake E5 2686 v5 (2.5 GHz)
+NM35WHNW4RD6ZH4A  2 GiB     2   t3.small      Intel Skylake E5 2686 v5 (2.5 GHz)
+PS7KVPXK96N2BJGP  1 GiB     2   t3.micro      Intel Skylake E5 2686 v5 (2.5 GHz)
+PXVP8BEWB9MCWMNR  1 GiB     2   t3.micro      Intel Skylake E5 2686 v5 (2.5 GHz)
+RP7JF6K2NBW9Y4SJ  4 GiB     2   t3.medium     Intel Skylake E5 2686 v5 (2.5 GHz)
+S9TWRX7CSGVGFTUF  7.5 GiB   2   m3.large      Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+VG8CG6HS7U9STV7K  4 GiB     2   t3.medium     Intel Skylake E5 2686 v5 (2.5 GHz)
+XGAATXHUHNWXTMMR  2 GiB     2   t3.small      Intel Skylake E5 2686 v5 (2.5 GHz)
+XH9A78C54UHFZGRU  8 GiB     2   m4.large      Intel Xeon E5-2676 v3 (Haswell)
+YE7DPT5QW74P8NUU  8 GiB     2   t2.large      Intel Xeon Family
+YEY22KN9TDE6BFST  2 GiB     2   t3.small      Intel Skylake E5 2686 v5 (2.5 GHz)
+5ZZCF2WTD3M2NVHT  15 GiB    4   m3.xlarge     Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+7SN7STWTVJW3W2G9  16 GiB    4   m5d.xlarge    Intel Xeon Platinum 8175
+8SQHN34JP8S4C4GV  16 GiB    4   t2.xlarge     Intel Xeon Family
+ASEABRAPY52SVJQW  16 GiB    4   m5.xlarge     Intel Xeon Platinum 8175
+BXS2CDUKEC83Q4SH  16 GiB    4   m5.xlarge     Intel Xeon Platinum 8175
+CG694CKJQH4847HC  16 GiB    4   t2.xlarge     Intel Xeon Family
+D4ZXHFX9TAH8SKJE  16 GiB    4   m5.xlarge     Intel Xeon Platinum 8175
+DFNWVY48EA9KSK8P  16 GiB    4   m5d.xlarge    Intel Xeon Platinum 8175
+EF7GKFKJ3Y5DM7E9  16 GiB    4   m4.xlarge     Intel Xeon E5-2676 v3 (Haswell)
+EJKFPM8NFNPPN8K3  16 GiB    4   t3.xlarge     Intel Skylake E5 2686 v5 (2.5 GHz)
+F8Q3FBUSDFAYFW2F  15 GiB    4   m3.xlarge     Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+FD8FGSQDGNM69YJF  15 GiB    4   m3.xlarge     Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+KZ25CYAW7ZZ6SN5U  16 GiB    4   t3.xlarge     Intel Skylake E5 2686 v5 (2.5 GHz)
+KZA72NQU2S3QBXXT  16 GiB    4   m4.xlarge     Intel Xeon E5-2676 v3 (Haswell)
+Q6FFSFPJYR84UFKC  16 GiB    4   t2.xlarge     Intel Xeon Family
+R2292NDJY8MEG6E9  16 GiB    4   m4.xlarge     Intel Xeon E5-2676 v3 (Haswell)
+RKVEJUJU9XMQKRKT  16 GiB    4   m5d.xlarge    Intel Xeon Platinum 8175
+XEQNC6Z8DAVU2D8H  16 GiB    4   t3.xlarge     Intel Skylake E5 2686 v5 (2.5 GHz)
+4K2RDTDA5QDSVF79  32 GiB    8   m5d.2xlarge   Intel Xeon Platinum 8175
+5FF8EWYB29V3BMFR  32 GiB    8   m4.2xlarge    Intel Xeon E5-2676 v3 (Haswell)
+79M3634SCM5Q9T3J  32 GiB    8   m5.2xlarge    Intel Xeon Platinum 8175
+7C6VBA89CA4WU3BC  32 GiB    8   m4.2xlarge    Intel Xeon E5-2676 v3 (Haswell)
+7EFZWDA5CSAB85BF  32 GiB    8   t2.2xlarge    Intel Xeon Family
+7X63DAK78VTPCW8F  32 GiB    8   t3.2xlarge    Intel Skylake E5 2686 v5 (2.5 GHz)
+BQGVWHYQ8YK6UNK7  32 GiB    8   t3.2xlarge    Intel Skylake E5 2686 v5 (2.5 GHz)
+CDQ3VSAVRNG39R6V  32 GiB    8   m4.2xlarge    Intel Xeon E5-2676 v3 (Haswell)
+CNP4PV4Y2J8YZVAR  30 GiB    8   m3.2xlarge    Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+DWFM7CT7HR9PKX7G  32 GiB    8   m5d.2xlarge   Intel Xeon Platinum 8175
+ETXT8WTMGCS677FW  32 GiB    8   m5d.2xlarge   Intel Xeon Platinum 8175
+GAE4UTCSMAJWBBFJ  30 GiB    8   m3.2xlarge    Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+KUDY5KG95ENTRCUZ  32 GiB    8   t2.2xlarge    Intel Xeon Family
+N5D4RSFRNZ3SRTJ3  32 GiB    8   m5.2xlarge    Intel Xeon Platinum 8175
+QJXTGC5R5C4GXQJZ  32 GiB    8   t2.2xlarge    Intel Xeon Family
+SKWTF99DT82GUYKP  32 GiB    8   m5.2xlarge    Intel Xeon Platinum 8175
+V8GQEFNYP3VEQARF  32 GiB    8   t3.2xlarge    Intel Skylake E5 2686 v5 (2.5 GHz)
+YXWUYKGFDQPNJA4R  30 GiB    8   m3.2xlarge    Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge)
+ADZF37JDQVT3WGPY  64 GiB    16  m5d.4xlarge   Intel Xeon Platinum 8175
+BFK6KTUS8EDEPQ9T  64 GiB    16  m5d.4xlarge   Intel Xeon Platinum 8175
+CBCQ6BE3V4RSGNFF  64 GiB    16  m5.4xlarge    Intel Xeon Platinum 8175
+JGXEWM5NJCZJPHGG  64 GiB    16  m4.4xlarge    Intel Xeon E5-2676 v3 (Haswell)
+PGN22TZDU2D3QMSP  64 GiB    16  m4.4xlarge    Intel Xeon E5-2676 v3 (Haswell)
+QDVJP86F8XHGBSMH  64 GiB    16  m4.4xlarge    Intel Xeon E5-2676 v3 (Haswell)
+QR7F3KDAWU8AH7GS  64 GiB    16  m5.4xlarge    Intel Xeon Platinum 8175
+WDVKBS7C22UHKEXB  64 GiB    16  m5.4xlarge    Intel Xeon Platinum 8175
+WVY4KGHQEHERBSCH  64 GiB    16  m5d.4xlarge   Intel Xeon Platinum 8175
+M3CFG9X9RYUCUM8N  160 GiB   40  m4.10xlarge   Intel Xeon E5-2676 v3 (Haswell)
+XWVCP8TVZ3EZXHJT  160 GiB   40  m4.10xlarge   Intel Xeon E5-2676 v3 (Haswell)
+ZWPFR7HFRCGJ2QTR  160 GiB   40  m4.10xlarge   Intel Xeon E5-2676 v3 (Haswell)
+3C2PC6ZPZ5J45XG4  192 GiB   48  m5d.12xlarge  Intel Xeon Platinum 8175
+94CQG9X2X6WQEE35  192 GiB   48  m5.12xlarge   Intel Xeon Platinum 8175
+A65VEHYMUBAYJ5QH  192 GiB   48  m5.12xlarge   Intel Xeon Platinum 8175
+FVQQQM6YZMWR2CH8  192 GiB   48  m5d.12xlarge  Intel Xeon Platinum 8175
+UZVS6KCHDUP826JV  192 GiB   48  m5d.12xlarge  Intel Xeon Platinum 8175
+WF33NBYGCMYCFQ7Q  192 GiB   48  m5.12xlarge   Intel Xeon Platinum 8175
+D2CRNK8RXJDCYF6U  256 GiB   64  m4.16xlarge   Intel Xeon E5-2686 v4 (Broadwell)
+MB2NWM9D8ZZSBHR4  256 GiB   64  m4.16xlarge   Intel Xeon E5-2686 v4 (Broadwell)
+QJ82YTRR8GFNUS8T  256 GiB   64  m4.16xlarge   Intel Xeon E5-2686 v4 (Broadwell)
+85ZP32Z5B2G2SYVH  384 GiB   96  m5d.24xlarge  Intel Xeon Platinum 8175
+9UR7CWCC3D8XJM5D  384 GiB   96  m5.metal      Intel Xeon Platinum 8175
+A4PSTURH2MNXCCEY  384 GiB   96  m5.24xlarge   Intel Xeon Platinum 8175
+BMXENRM9BM54QBEV  384 GiB   96  m5.24xlarge   Intel Xeon Platinum 8175
+D39RTF6K3E66K2YW  384 GiB   96  m5.24xlarge   Intel Xeon Platinum 8175
+EWWU8SURA5Y4Q8WW  384 GiB   96  m5.metal      Intel Xeon Platinum 8175
+HYB77C5NRCZAEMRF  384 GiB   96  m5d.24xlarge  Intel Xeon Platinum 8175
+MU5U93W873MZ8Z5D  384 GiB   96  m5.metal      Intel Xeon Platinum 8175
+TPEGV8AP6ZRM6Y8Z  384 GiB   96  m5d.metal     Intel Xeon Platinum 8175
+VDE8R7MCSGDRYAK3  384 GiB   96  m5d.metal     Intel Xeon Platinum 8175
+VKC9JFWDJCMTC9PM  384 GiB   96  m5d.metal     Intel Xeon Platinum 8175
+Z2K4FMUDPSU2Y95K  384 GiB   96  m5d.24xlarge  Intel Xeon Platinum 8175
