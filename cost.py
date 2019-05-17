@@ -83,11 +83,11 @@ ec2 = {
 
 vcpus, mem, seconds = map(float, sys.argv[1:4])
 
-for sku, data in sorted(ec2.items(), key=lambda x: (x[1]['mem'], -x[1]['vcpus'])):
-    if data['mem'] > mem and data['vcpus'] > vcpus:
+for sku, data in sorted(ec2.items(), key=lambda x: (x[1]['mem'], x[1]['vcpus'])):
+    if data['mem'] >= mem and data['vcpus'] >= vcpus:
 
         if data['priceunit'] != 'Hrs':
             raise Exception()
 
-        print(seconds * data['price'] / 3600)
+        print(seconds * data['price'] / 3600, data)
         break
